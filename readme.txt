@@ -13,3 +13,5 @@ new branch
 
 Branch dev change
 Branch dev change1
+
+Branch master no feature1
