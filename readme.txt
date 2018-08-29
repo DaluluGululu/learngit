@@ -14,16 +14,3 @@ new branch
 Branch dev change
 Branch dev change1
 
-<<<<<<< HEAD
-
-Branch master no feature1
-
-Branch feature1
-
-master1
-=======
-Branch feature1
-
-
-feature1
->>>>>>> feature1
