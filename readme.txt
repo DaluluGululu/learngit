@@ -5,6 +5,6 @@ Git tracks changes of files.
 
 change2
 change3
-stupid boss
+
 work1
 work2
